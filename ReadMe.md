@@ -17,6 +17,7 @@
 
 👔[linekdin](https://www.linkedin.com/in/vivek-khade-02b655149/)
 📝[medium](https://medium.com/@khadev881)
+<a href="https://www.flaticon.com/free-icons/portfolio" title="portfolio icons">[portfolio](https://portfolio-flax-chi-58.vercel.app/)</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
