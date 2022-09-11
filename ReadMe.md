@@ -35,7 +35,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/50/000000/mongodb.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />\
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/cute-clipart/64/4a90e2/github.png" />
 <div >
