@@ -35,13 +35,7 @@
         </a>
         
         
-            <a href="https://github.com/vivekkhade23">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&count_private=true&show_icons=true" //stats
-          />
-        </a>
-
-
+      
   
 
 <h3 align="left">Languages and Tools:</h3>
