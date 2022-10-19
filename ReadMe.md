@@ -5,9 +5,9 @@
 
 
 <h1 align="center">I'm Vivek Khade</h1>
-<h3 align="center">A passionate upcoming Full Stack Developer from India</h3>
+<h3 align="center">A passionate upcoming Full Stack Developer</h3>
 
-- 🔭 I’m currently pursuing Full Stack development course.
+- 🔭 I’m currently pursuing Full Stack development course and love to build something new.
 
 - 👨‍💻 All of my Repositories are available at [Vivek Repositories](https://github.com/vivekkhade23)
 
