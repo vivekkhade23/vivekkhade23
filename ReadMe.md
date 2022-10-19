@@ -36,7 +36,7 @@
           />
         </a>
 
-      <div style={{ width: "40%", margin: "auto" }}>
+<!--       <div style={{ width: "40%", margin: "auto" }}>
         <a href="https://github.com/vivekkhade23">
           <img
             align="left"
@@ -61,7 +61,7 @@
             color="#c084f5"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23"  //launguages
           />
-        </a>
+        </a> -->
         <a href="https://github.com/vivekkhade23">
           <img
             // align="left"
@@ -69,7 +69,7 @@
             src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&count_private=true&show_icons=true" //stats
           />
         </a>
-      </div>
+<!--       </div> -->
   
 
 <h3 align="left">Languages and Tools:</h3>
