@@ -35,6 +35,15 @@
         </a>
         
         
+        
+  <a href="https://github.com/vivekkhade23">  
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23"  //launguages
+          />
+        </a>
+            
+        
+ 
       
   
 
