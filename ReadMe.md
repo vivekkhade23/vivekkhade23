@@ -28,7 +28,13 @@
           />
         </a>
 
-
+  <a href="https://github.com/vivekkhade23">  
+          <img
+            // align="center"
+            color="#c084f5"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23"  //launguages
+          />
+        </a>
 
       <div style={{ width: "40%", margin: "auto" }}>
         <a href="https://github.com/vivekkhade23">
