@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khadev881@gmail.com**
 
-- [My Portfolio](https://portfolio-flax-chi-58.vercel.app/)
+- [My Portfolio](https://vivekkhade23.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,7 +38,7 @@
         
   <a href="https://github.com/vivekkhade23">  
           <img
-            src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&count_private=true&show_icons=true"  //launguages
+            src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&count_private=true&show_icons=true"  //Stats
           />
         </a>
             
