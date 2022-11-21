@@ -27,17 +27,17 @@
          
 <!--         </a> -->
 
-  <a href="https://github.com/vivekkhade23">  
+<!--   <a href="https://github.com/vivekkhade23">   -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23&theme=react" />
 
-        </a>
+<!--         </a> -->
         
         
         
-  <a href="https://github.com/vivekkhade23">  
+<!--   <a href="https://github.com/vivekkhade23">   -->
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkhade23&theme=react" />
 
-        </a>
+<!--         </a> -->
             
         
  
