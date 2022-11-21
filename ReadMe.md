@@ -21,11 +21,19 @@
 📝[medium](https://medium.com/@khadev881)
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkhade23&theme=react" />
 
- 
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkhade23" alt="vivekkhade23" /></a>
+</p>
+
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkhade23&show_icons=true&locale=en&layout=compact" alt="vivekkhade23" /></p>
+
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&show_icons=true&locale=en" alt="vivekkhade23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkhade23&" alt="vivekkhade23" /></p>
+
       
   
 
