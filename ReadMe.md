@@ -21,25 +21,10 @@
 📝[medium](https://medium.com/@khadev881)
 
 
-<!--  <a href="https://github.com/vivekkhade23"> -->
-        
- <img src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&show_icons=true&theme=react" />
-         
-<!--         </a> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=isharaman8&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharaman8&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharaman8&theme=react" />
 
-<!--   <a href="https://github.com/vivekkhade23">   -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23&theme=react" />
-
-<!--         </a> -->
-        
-        
-        
-<!--   <a href="https://github.com/vivekkhade23">   -->
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkhade23&theme=react" />
-
-<!--         </a> -->
-            
-        
  
       
   
