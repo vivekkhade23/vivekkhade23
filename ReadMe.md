@@ -21,11 +21,11 @@
 📝[medium](https://medium.com/@khadev881)
 
 
- <a href="https://github.com/vivekkhade23">
+<!--  <a href="https://github.com/vivekkhade23"> -->
         
  <img src="https://github-readme-stats.vercel.app/api?username=vivekkhade23&show_icons=true&theme=react" />
          
-        </a>
+<!--         </a> -->
 
   <a href="https://github.com/vivekkhade23">  
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkhade23&theme=react" />
